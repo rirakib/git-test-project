@@ -1,4 +1,5 @@
 //frontend developer
-
+1. frontend tumi blog request fetch koro
 
 //backend developer
+1. backend tumi blog request banao
